@@ -11,3 +11,6 @@ Syllabus:
 6. Support vector machines
 7. Time series analysis and anomaly detection
 8. Clustering
+
+# Office Hours (January 2020)
+ https://www.youtube.com/watch?v=HAggIuLC740&list=PLeDYvCW3J3jkRcrP72oiL-xxWmapMUnl8
